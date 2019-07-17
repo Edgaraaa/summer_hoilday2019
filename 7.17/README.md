@@ -14,11 +14,11 @@
 
 之后这是朱师傅这两天在搞的题，我就凑凑热闹，毕竟太菜得向朱师傅学习，之后开始试着做，文件是64位的，IDA看一波是这个样子的。
 
-![](C:\Users\lenovo\Desktop\summer_hoilday2019\summer_hoilday2019\7.17\img\3.png)
+![](https://github.com/Edgaraaa/summer_hoilday2019/blob/master/7.17/img/3.png?raw=true)
 
-![](C:\Users\lenovo\Desktop\summer_hoilday2019\summer_hoilday2019\7.17\img\1.png)
+![](https://github.com/Edgaraaa/summer_hoilday2019/blob/master/7.17/img/1.png?raw=true)
 
-![](C:\Users\lenovo\Desktop\summer_hoilday2019\summer_hoilday2019\7.17\img\2.png)
+![](https://github.com/Edgaraaa/summer_hoilday2019/blob/master/7.17/img/2.png?raw=true)
 
 之后根据我那微薄的知识告诉我，知识盲区我不会，之后根据朱师傅给的提示，与```mprotect```这个函数有关系，查过```.bss```段可读可写但是不可执行，百度查了一下```mprotect```这个函数是啥用的:
 
@@ -140,6 +140,6 @@ sh.send(payloadkkp)
 sh.interactive()
 ```
 
-![](C:\Users\lenovo\Desktop\summer_hoilday2019\summer_hoilday2019\7.17\img\4.png)
+![](https://github.com/Edgaraaa/summer_hoilday2019/blob/master/7.17/img/4.png?raw=true)
 
 总共用了一天多才搞定，我好菜啊！！！
