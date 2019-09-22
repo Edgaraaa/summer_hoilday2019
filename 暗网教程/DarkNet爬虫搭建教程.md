@@ -208,7 +208,7 @@ git clone https://github.com/aoii103/DarkNet_ChineseTrading.git
 
 我们先设置一下```conf.py```文件来配置一下环境，
 
-![1](C:\Users\lenovo\Desktop\暗网教程\1.png)
+![1](https://github.com/Edgaraaa/summer_hoilday2019/blob/master/%E6%9A%97%E7%BD%91%E6%95%99%E7%A8%8B/1.png?raw=true)
 
 主要设置这两边，创建数据库是python脚本自己会去做的，我们不需要去自己创建同名数据库的，因为自己创建还会造成编码不一致，然后乱码，就会躺一波坑(当时发现乱码，难受的一批)
 
